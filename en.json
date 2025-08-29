@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title_part1": "Nexus",
+    "title_part2": "TOPUP",
+    "search_button": "Search",
+    "coins_button": "Nexus Coins",
+    "profile_button": "User Profile",
+    "login_button": "Login"
+  },
+  "footer": {
+    "payment_security_title": "100% Safe & Secure Payments",
+    "contact_us_title": "Contact Us"
+  }
+}

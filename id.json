@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title_part1": "Nexus",
+    "title_part2": "TOPUP",
+    "search_button": "Cari",
+    "coins_button": "Nexus Coins",
+    "profile_button": "Profil Pengguna",
+    "login_button": "Masuk"
+  },
+  "footer": {
+    "payment_security_title": "Pembayaran 100% Aman & Terpercaya",
+    "contact_us_title": "Hubungi Kami"
+  }
+}
